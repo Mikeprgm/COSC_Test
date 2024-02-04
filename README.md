@@ -1,5 +1,5 @@
 # COSC_Test
 
-This is the read me file for this test reprository.I
+This is the read me file for this test reprository.
 
-f you happen to be reading this you have too much time on your hands.
+If you happen to be reading this you have too much time on your hands.
